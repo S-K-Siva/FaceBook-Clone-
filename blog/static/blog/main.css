@@ -1,0 +1,28 @@
+body{
+    background-color: white;
+}
+.sec{
+    background-color: whitesmoke;
+    border-radius:10px;
+    padding:10px 5px;
+    margin-top:20px;
+}
+.datebox{
+    text-align: right;
+    font-size:xx-small;
+    font-weight:200;
+}
+.sec h1{
+    color: gray;
+    font-weight:200px;
+}
+.side{
+    display: inline-block;
+}
+.top{
+    font-size:xx-large;
+    width: 100%;
+}
+.navbar{
+    background-color: black;
+}

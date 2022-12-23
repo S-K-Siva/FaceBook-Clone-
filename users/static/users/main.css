@@ -1,0 +1,50 @@
+.form-group{
+    font-size:small;
+    background-color:whitesmoke;
+    border-radius: 10%;
+    margin-top:13px;
+    padding:0px 10px;
+}
+
+body{
+    background-color: white;
+}
+
+.heading{
+    font-family: poppins;
+    font-weight:300;
+}
+.branding{
+    text-align: center;
+}
+.login_txt{
+    text-align: center;
+}
+.Welcometxt{
+    text-align: center;
+}
+.ca_txt{
+    text-align: center;
+    font-size:medium;
+    font-family:poppins;
+}
+.profile_look{
+background-color:green;
+width:100%;
+}
+
+.profile_picture{
+    padding:15px;
+}
+.rounded-circle{
+    height:100px;
+    width:100px;
+}
+.profilepageview{
+    margin-top:3px;
+    background-color: whitesmoke;
+}
+.bio{
+    padding: 10px;
+
+}
